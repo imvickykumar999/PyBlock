@@ -1,0 +1,6 @@
+click
+nbt
+frozendict
+webcolors
+pillow
+numpy

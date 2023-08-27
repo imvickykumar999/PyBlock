@@ -5,7 +5,7 @@ This example shows how to create a maze with arbitrary shape, walls, size etc. c
 import pyblock
 
 # Set your path to the minecraft world
-PATH = "path/to//minecraft/saves/YourWorld"
+PATH = r"C:\Users\Vicky\AppData\Roaming\.minecraft\saves\Demo_World"
 
 
 # Create the editor
